@@ -43,7 +43,7 @@ document.onkeydown = function(e) {
 
 </script>
 
-  <link href="favicon.ico" rel="shortcut icon" type="../images/favicon.ico" />
+  <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
   </head>
   <body oncontextmenu="return false" devtools.*.enabled="false">
     <section class="site-hero" id="section-home" data-stellar-background-ratio="0.5">

@@ -1,0 +1,6 @@
+login\registration\Customer.class
+login\registration\LoginRegister.class
+login\registration\MyProvider.class
+login\registration\MyConnectionProvider.class
+login\registration\CustomerDAO.class
+login\registration\CustomerDAOImpl.class

@@ -160,8 +160,8 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
           </div>
         </div> 
         <div class="lead" >
-        <div class="panel panel-default">
-         <div class="panel-heading">
+        <!-- <div class="panel panel-default"> -->
+         <!-- <div class="panel-heading"> -->
 			&#9679; Developed web applications using Java, Servlets, JSP, JDBC,
 			JavaScript, HTML and CSS in NetBeans and Eclipse. <br>&#9679;
 			Good knowledge of design, development, implementation and testing of
@@ -198,8 +198,8 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
             <div class="section-heading text-center">
               <h2>Other <strong>Skills</strong></h2>
             </div>
-          </div>
-        </div>  	
+            
+            <div class="lead" >	
 <table class="table table-bordered">
 			<tr>
 				<td><strong>Software :</strong></td>
@@ -239,6 +239,8 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
 			</tr>
 			
 		</table>
+		</div>
+		
           </div>
 
         </div>
@@ -528,18 +530,22 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
 
     <footer class="site-footer">
       <div class="container">
-        <div class="row mb-3">
+        <div class="row mb-1">
           <div class="col-md-12 text-center">
           <div class="copyright-text">
-		<p>CopyRight &copy; <script>document.write(new Date().getFullYear());</script>All Rights Reserved</p>
-	 </div>
+		
             <p>
               <a href="https://www.facebook.com" class="social-item"><span class="icon-facebook2"></span></a>
               <a href="https://www.linkedin.com/in/girirajiv" class="social-item"><span class="icon-linkedin2"></span></a>
               <a href="https://www.github.com/rajivgiri513" class="social-item"><span class="icon-github"></span></a>
             </p>
-          </div>
+          
+        
+        <p>Copy Right &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved</p>
         </div>
-
+         </div>
+</div>
+</div>
+</footer>
   </body>
 </html>

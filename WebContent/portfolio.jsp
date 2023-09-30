@@ -4,7 +4,7 @@
 
 <html lang="en">
   <head class="hidden">
-    <title>My Resume</title>
+    <title>My Portfolio</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -43,7 +43,7 @@ document.onkeydown = function(e) {
 
 </script>
 
-  <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link href="favicon.ico" rel="shortcut icon" type="../images/favicon.ico" />
   </head>
   <body oncontextmenu="return false" devtools.*.enabled="false">
     <section class="site-hero" id="section-home" data-stellar-background-ratio="0.5">
@@ -56,7 +56,7 @@ document.onkeydown = function(e) {
 				var d = new Date();
 				document.getElementById("date").innerHTML = d;
 				</script>
-            <h1 class="site-heading site-animate">Hello Namaste, I'm <strong>Rajiv Giri</strong></h1>
+            <h1 class="site-heading site-animate">Hello Namaste, I'm <strong>Raj</strong></h1>
            <p class="lead">Technical Consultant with experience in developing, testing and supporting multiple language, OS, domain desktop and web applications.</p>
            <p><a href="#section-about" class="smoothscroll btn btn-primary px-4 py-3">More On Me</a></p>
           </div>
@@ -67,18 +67,24 @@ document.onkeydown = function(e) {
   
     <section class="site-section" id="section-about">
       <div class="container">
-        <div class="row mb-5 align-items-center">
-          <div class="col-lg-5 pr-lg-3 mb-5 mb-lg-0">
-		  <!-- Insert your image here -->
-            <img src="images/rg-long.JPG" width="460" height="500">
-          </div>
-          <div class="col-lg-7 pl-lg-5">
-            <div class="section-heading">
+        <div class="row mb-5">
+          <!-- <div class="col-lg-5 pr-lg-3 mb-5 mb-lg-0">
+		  Insert your image here
+           <img src="images/rg-long.JPG" width="460" height="500">
+          </div> -->
+            <div class="row pt-2">
+          <div class="col-md-12 mb-3">
+            <div class="section-heading text-center">
               <h2>About <strong>Me  <span class="icon-cool"></span> </strong></h2>
+              </div>
             </div>
-            <p class="lead" width  >I am a Technical Consultant having more than <strong>2</strong> years of experience in developing, testing and supporting multiple language, OS, domain desktop and web applications. I am also a Java Bootcamp graduate from Cincy Code IT, Max Technical Training located in Mason Ohio who loves to write code to build great products and help businesses succeed with their goals. Currently seeking a position in the Cincinnati KY area for a Junior Java developer, Analyst and Automation Testing. I want to learn more about good design, clean code, proper integration and testing and make sure it is bug free as I am seeing its importance more then ever in today's apps, web sites and products.
+            <p class="lead" width  ><strong>Raj</strong> is a highly skilled professional with a broad range of experience in analyzing, developing, testing, and supporting various applications across multiple platforms and languages. He has worked on desktop, Retail POS, Android/mobile, and web applications, gaining valuable expertise in each domain.
 
-Able to work in a challenging environment that would best utilize my technical and interpersonal skills and benefit from my background in the field of data analysis, debugging, code validation and software quality assurance.</p>
+In his career, Raj has collaborated with clients to enhance and implement Enterprise Application Software projects specifically in the retail, pharmaceutical, and healthcare sectors. This industry-specific experience has provided him with a deep understanding of the unique challenges faced by businesses operating in these fields. He is well-versed in the requirements and intricacies of these industries, allowing him to tailor his solutions to meet their specific needs effectively.
+
+Raj's technical proficiency extends to utilizing code review, error logs, test scripts, source code, and SQL queries as tools for troubleshooting and resolving complex technical issues. He has undergone specialized training to hone his skills in these areas, enabling him to efficiently identify and resolve problems within software applications.
+
+Overall, Raj possesses a comprehensive skill set encompassing application analysis, development, testing, support, and troubleshooting. His experience and technical expertise make him a valuable asset for any organization operating in the retail, pharmaceutical, or healthcare sectors.</p>
 		</p>
 
             <p>
@@ -89,12 +95,12 @@ Able to work in a challenging environment that would best utilize my technical a
         </div>
 
         <div class="row pt-5">
-          <div class="col-md-3 mb-3">
-            <div class="section-heading">
+          <div class="col-md-12 mb-3">
+            <div class="section-heading text-center">
               <h2>My Top<strong> 5 Skills</strong></h2>
             </div>
           </div>
-          <div class="col-md-9">
+          <div class="col-md-12">
             <div class="skill">
               <h3>Programming and Design (Java, C#, HTML5, CSS3, JavaScript and Servlets, etc.)</h3>
               <div class="progress">
@@ -339,22 +345,22 @@ Able to work in a challenging environment that would best utilize my technical a
               <span class="date"><span class="icon-calendar"></span>2016</span>
               <h3>IT Support</h3>
               <p>Attended 8 weeks of Hardware and Software support training.</p>
-              <span class="school"><a href="https://perscholas.org/?city=cincinnati" target="_blank">Per Scholas</a></span>
+              <span class="school"><a href="" target="_blank">IT Support Training</a></span>
             </div>
           </div>
           <div class="col-md-6">
-            <h2 class="mb-5">-</h2>
+            <h2 class="mb-5">.</h2>
             <div class="resume-item mb-4">
              <span class="date"><span class="icon-calendar"></span>2017</span>
               <h3>Java Bootcamp</h3>
 			  <p>Attended 12 weeks of training on Application development, testing and deployment using Java, HTML, CSS, JavaScript, JSP and Servlet.</p>
-              <span class="school"><a href="https://maxtrain.com/career-2/career-cincy-code-bootcamps/about-cincy-code-it/#" target="_blank">Cincy Code IT/MAX Technical Training</a></span>
+              <span class="school"><a href="" target="_blank">Java Software Development Bootcamp Training</a></span>
             </div>
 			 <div class="resume-item mb-4">
               <span class="date"><span class="icon-calendar"></span>2016</span>
               <h3>Software QA Testing</h3>
-              <p>Attended 8 weeks of Software testing training.</p>
-              <span class="school"><a href="https://perscholas.org/?city=cincinnati" target="_blank">Per Scholas</a></span>
+              <p>Attended 8 weeks of Manual Software testing training.</p>
+              <span class="school"><a href="" target="_blank">Software Testing Training</a></span>
             </div>
           </div>
        
@@ -367,7 +373,7 @@ Able to work in a challenging environment that would best utilize my technical a
 			   Please find my duties and responsibilities for this position listed on my resume
 			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('R.Giri-Resume.docx')">Here</a>
 			  </p>
-              <span class="school">PCMS Datafit</span>
+              <span class="school">Confidential</span>
             </div>
 			 <div class="resume-item mb-4">
               <span class="date"><span class="icon-calendar"></span>2012 - 2015</span>
@@ -381,7 +387,7 @@ Able to work in a challenging environment that would best utilize my technical a
           </div>
 		  
 		      <div class="col-md-6">
-            <h2 class="mb-5">-</h2>
+            <h2 class="mb-5">.</h2>
             <div class="resume-item mb-4">
              <span class="date"><span class="icon-calendar"></span>JUNE 2016 - FEB 2018</span>
               <h3>QA/Data Analyst</h3>
@@ -389,7 +395,7 @@ Able to work in a challenging environment that would best utilize my technical a
 			   Please find my duties and responsibilities for this position listed on my resume
 			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('R.Giri-Resume.docx')">Here</a>
 			  </p>
-              <span class="school">Thrive Impact Sourcing</span>
+              <span class="school">Confidential</span>
             
             </div>
             
@@ -424,7 +430,7 @@ Able to work in a challenging environment that would best utilize my technical a
               <span class="date"><span class="icon-calendar"></span>2017</span>
               <h3 >Big Box</h3>
               <p>Created using Java, HTML, CSS,Maven, JavaScript,Bootstrap, JSP and Servlet.</p>
-              <span class="school"><a href="https://www.girirajiv.cf" target="_blank">Click here to view the Project.</a></span>
+              <span class="school"><a href="" target="_blank">Click here to view the Project.</a></span>
             </div>   
           </div>
           <div class="col-md-6">
@@ -454,7 +460,7 @@ Able to work in a challenging environment that would best utilize my technical a
           </div>
           
           <div class="col-md-7 mb-5 mb-md-0">
-            <form data-email="rajivgiri2018@yahoo.com" method="post" class="gform pure-form pure-form-stacked" action="https://script.google.com/macros/s/AKfycbxCklObsL6NsdGABtDfm0R1NOlSTZAUbyUlIcpR/exec">
+            <form data-email="rgiri9025@google.com" method="post" class="gform pure-form pure-form-stacked" action="https://script.google.com/macros/s/AKfycbxCklObsL6NsdGABtDfm0R1NOlSTZAUbyUlIcpR/exec">
               
               <h3 class="mb-5">Contact Me</h3>
               <div class="form-elements">
@@ -497,11 +503,11 @@ Able to work in a challenging environment that would best utilize my technical a
             <ul class="site-contact-details">
               <li>
                 <span class="text-uppercase icon-mail2"><strong>Email: </strong></span>
-               rajivgiri2018@yahoo.com
+               rgiri9025@google.com
               </li>
               <li>
                 <span class="text-uppercase  icon-mobile"><strong>Phone: </strong></span>
-                (513) 834-3371
+                (513) ###-####
               </li>
               <li>
                 <span class="text-uppercase icon-compass2"><strong>Location: </strong></span>
@@ -525,7 +531,7 @@ Able to work in a challenging environment that would best utilize my technical a
         <div class="row mb-3">
           <div class="col-md-12 text-center">
           <div class="copyright-text">
-		<p>CopyRight &copy; 2018 Rajiv Giri All Rights Reserved</p>
+		<p>CopyRight &copy; <script>document.write(new Date().getFullYear());</script>All Rights Reserved</p>
 	 </div>
             <p>
               <a href="https://www.facebook.com" class="social-item"><span class="icon-facebook2"></span></a>

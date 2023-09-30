@@ -89,7 +89,7 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
 
             <p>
               <a href="#section-contact" class="btn btn-primary px-4 py-2 btn-sm smoothscroll">Hire Me</a>
-              <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('R.Giri-Resume.docx')">Download CV</a>
+              <a href="resume.jsp" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('resume.jsp')">Download CV</a>
             </p>
           </div>
         </div>
@@ -371,7 +371,7 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
               <h3>Technical Support Consultant</h3>
 			  <p>
 			   Please find my duties and responsibilities for this position listed on my resume
-			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('R.Giri-Resume.docx')">Here</a>
+			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('resume.jsp')">Here</a>
 			  </p>
               <span class="school">Confidential</span>
             </div>
@@ -380,7 +380,7 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
               <h3>Pharmacy Data Entry Tech</h3>
 			  <p>
 			   Please find my duties and responsibilities for this position listed on my resume
-			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('R.Giri-Resume.docx')">Here</a>
+			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('resume.jsp')">Here</a>
 			  </p>
               <span class="school">Humana Pharmacy</span>
             </div>
@@ -393,7 +393,7 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
               <h3>QA/Data Analyst</h3>
 			  <p>
 			   Please find my duties and responsibilities for this position listed on my resume
-			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('R.Giri-Resume.docx')">Here</a>
+			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('resume.jsp')">Here</a>
 			  </p>
               <span class="school">Confidential</span>
             
@@ -405,7 +405,7 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
               <h3>Pharmacy Data Entry Tech</h3>
 			  <p>
 			   Please find my duties and responsibilities for this position listed on my resume
-			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('R.Giri-Resume.docx')">Here</a>
+			  <a href="#" class="btn btn-secondary px-4 py-2 btn-sm"  type=" submit="" onclick="window.open('resume.jsp')">Here</a>
 			  </p>
               <span class="school">Kroger Pharmacy</span>
             </div>

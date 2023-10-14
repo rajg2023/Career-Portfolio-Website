@@ -46,7 +46,6 @@ try{
 			c.setPhone(rs.getString(5));
 			c.setEmail(rs.getString(6));
 		}
-		
 		}catch(Exception e){
 			System.out.println("You have exception error on select customer" + e);
 		}

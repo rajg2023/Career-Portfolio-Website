@@ -47,7 +47,7 @@
 	
 	        <h1>Work in Progress.........</h1>
 	        
-		<marquee><p>&copy; 2023 Raj Giri</p></marquee>
+		<marquee><p>&copy; 2023 Raj G.</p></marquee>
 		</div>
 	<!--//copy-right-->
 </div>

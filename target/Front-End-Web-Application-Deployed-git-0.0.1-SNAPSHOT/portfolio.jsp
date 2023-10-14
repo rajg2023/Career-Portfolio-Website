@@ -43,7 +43,7 @@ document.onkeydown = function(e) {
 
 </script>
 
-  <link href="" rel="shortcut icon" type="image/x-icon" />
+  <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
   </head>
   <body oncontextmenu="return false" devtools.*.enabled="false">
     <section class="site-hero" id="section-home" data-stellar-background-ratio="0.5">
@@ -59,7 +59,6 @@ document.onkeydown = function(e) {
             <h1 class="site-heading site-animate">Hello Namaste, I'm <strong>Raj</strong></h1>
            <p class="lead">Technical Consultant with experience in developing, testing and supporting multiple language, OS, domain desktop and web applications.</p>
            <p><a href="#section-about" class="smoothscroll btn btn-primary px-4 py-3">More On Me</a></p>
-           
           </div>
         </div>
       </div>
@@ -514,8 +513,8 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
               </li>
               <li>
                 <span class="text-uppercase icon-compass2"><strong>Location: </strong></span>
-                OH
-                  <br>
+                Cincinnati, OH
+                45231  <br>
               </li>
             </ul>           
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d198060.24152857973!2d-84.6804875471182!3d39.136256210952766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884051b1de3821f9%3A0x69fb7e8be4c09317!2sCincinnati%2C+OH!5e0!3m2!1sen!2sus!4v1544335757960" 
@@ -537,12 +536,12 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
 		
             <p>
               <a href="https://www.facebook.com" class="social-item"><span class="icon-facebook2"></span></a>
-              <a href="https://www.linkedin.com/in/rajivg2023" class="social-item"><span class="icon-linkedin2"></span></a>
-              <a href="https://www.github.com/rajgiri2023" class="social-item"><span class="icon-github"></span></a>
+              <a href="https://www.linkedin.com/in/girirajiv" class="social-item"><span class="icon-linkedin2"></span></a>
+              <a href="https://www.github.com/rajivgiri513" class="social-item"><span class="icon-github"></span></a>
             </p>
           
         
-        <p>Copy Right &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved</p>
+        <p>Copy Right &copy; <script>document.write(new Date().getFullYear());</script> Raj G All Rights Reserved</p>
         </div>
          </div>
 </div>

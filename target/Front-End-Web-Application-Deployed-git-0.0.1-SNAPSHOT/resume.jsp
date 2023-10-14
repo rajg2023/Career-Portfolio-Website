@@ -163,8 +163,8 @@ form {display: inline-block;}
 	<p class="s3" style="padding-top: 4pt; padding-left: 9pt; text-indent: 3pt; line-height: 130%;  height: 60px; width: 1448px; text-align:left;">
 	    
 	</div></form>	
-	<h1 style="padding-top: 30pt; padding-left: 6pt; text-indent: 0pt; text-align: center;">Raj
-			G.</h1>
+	<h1 style="padding-top: 30pt; padding-left: 6pt; text-indent: 0pt; text-align: center;">Rajiv
+			Giri</h1>
 
 		<p style="padding-top: 5pt; padding-bottom: 4pt; padding-left: 6pt; text-indent: 0pt; line-height: 144%; text-align: center;">
 			<a style="color: #333; font-family: &amp; amp; amp; amp; amp; amp; quot; Times New Roman&amp;amp; amp; amp; amp; amp; quot; , serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 16pt;" target="_blank">Software Developer and Tester - Cincinnati Ohio</a>
@@ -191,7 +191,7 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
 			03/2017-06/2017</p>
 		<p class="s3" style="padding-top: 8pt; padding-left: 9pt; text-indent: -3pt; line-height: 130%; text-align: left;">
 			Selected to participate in an intense, hands-on, 11 week, 440-hour
-			software development bootcamp. Through an innovative combination of
+			software developer bootcamp. Through an innovative combination of
 			in-class mentored programming, instruction, team and individual
 			exercises, the class covered: <br>&#9679; 2 days of Scrum
 			Foundation training; currently studying for Scrum certification. <br>&#9679;
@@ -401,8 +401,8 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
 		<marquee>Copyright &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved</marquee>
 	</footer>
 	</div>
-					</div>
-					</div>
+	</div>
+	</div>
 
 </body>
 </html>

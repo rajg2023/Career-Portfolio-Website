@@ -163,8 +163,8 @@ form {display: inline-block;}
 	<p class="s3" style="padding-top: 4pt; padding-left: 9pt; text-indent: 3pt; line-height: 130%;  height: 60px; width: 1448px; text-align:left;">
 	    
 	</div></form>	
-	<h1 style="padding-top: 30pt; padding-left: 6pt; text-indent: 0pt; text-align: center;">Rajiv
-			Giri</h1>
+	<h1 style="padding-top: 30pt; padding-left: 6pt; text-indent: 0pt; text-align: center;">Raj
+			G.</h1>
 
 		<p style="padding-top: 5pt; padding-bottom: 4pt; padding-left: 6pt; text-indent: 0pt; line-height: 144%; text-align: center;">
 			<a style="color: #333; font-family: &amp; amp; amp; amp; amp; amp; quot; Times New Roman&amp;amp; amp; amp; amp; amp; quot; , serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 16pt;" target="_blank">Software Developer and Tester - Cincinnati Ohio</a>

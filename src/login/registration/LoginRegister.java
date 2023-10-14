@@ -52,11 +52,6 @@ public class LoginRegister extends HttpServlet {
 		
 		
 		
-		
-		
-		
-		
-		
 	}
 
 }

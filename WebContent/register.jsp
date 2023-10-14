@@ -52,7 +52,7 @@
 	</div>
 	<!--copy-right-->
 		<div class="copyright">
-			<p>&copy; 2018 Rajiv Giri</p>
+			<p>&copy; 2023 Raj G</p>
 		</div>
 	<!--//copy-right-->
 </div>

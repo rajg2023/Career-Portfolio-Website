@@ -541,7 +541,7 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
             </p>
           
         
-        <p>Copy Right &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved</p>
+        <p>Copy Right &copy; <script>document.write(new Date().getFullYear());</script> Raj G All Rights Reserved</p>
         </div>
          </div>
 </div>

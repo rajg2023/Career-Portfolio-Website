@@ -16,7 +16,7 @@ public static Connection getCon(){
 	}
 	
 	return con;
-	
+
 }
 
 }

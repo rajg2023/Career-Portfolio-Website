@@ -401,8 +401,8 @@ Overall, Raj possesses a comprehensive skill set encompassing application analys
 		<marquee>Copyright &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved</marquee>
 	</footer>
 	</div>
-					</div>
-					</div>
+	</div>
+	</div>
 
 </body>
 </html>
